@@ -2,13 +2,13 @@
 
 GitHub project
 Project url
-https://github.com/Surya86899/surdevopsya/
+https://github.com/animeshjare26/Devops/
 
 **Source Code Management
 Git
 Repositories
 Repository URL
-https://github.com/Surya86899/surdevopsya
+https://github.com/animeshjare26/Devops
 
 Add Repository
 Branches to build
